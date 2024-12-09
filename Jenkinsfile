@@ -10,7 +10,6 @@ pipeline {
     GIT_NAME = "volto-prefixpath"
     NAMESPACE = "@eeacms"
     SONARQUBE_TAGS = "volto.eea.europa.eu,water.europa.eu-freshwater,water.europa.eu-marine"
-    DEPENDENCIES = "@eeacms/volto-eea-design-system"
     BACKEND_PROFILES = "eea.kitkat:testing"
     BACKEND_ADDONS = ""
     VOLTO = "17"
